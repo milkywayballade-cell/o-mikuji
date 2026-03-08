@@ -1,0 +1,14 @@
+* {
+     text-align:center;
+    margin: .5rem;
+}
+
+#result {
+    border: solid ; 
+  height:60px;
+  line-height:60px;
+}
+
+#draw {
+    padding:.4rem 1rem;
+}
